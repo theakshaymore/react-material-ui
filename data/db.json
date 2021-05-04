@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "submission",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, qui?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, qui?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, qui?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, qui?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, qui?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, qui?",
+      "category": "reminders",
+      "id": 3
+    },
+    {
+      "title": "DMBI Lecture Notes",
+      "details": "Large quantities of data. The volume of data so great it has to be analyzed by automated techniques e.g. satellite information, credit card transactions etc.\nNoisy, incomplete data. Imprecise data is the characteristic of all data collection.\nComplex data structure. ...\nHeterogeneous data stored in legacy systems.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "SEPM Practical Notes",
+      "details": "local r, g, b = HSV2RGB(h, s, v)\nlocal dither = copy(WEB_SAFE)\nlocal lmod\nfor i, v in ipairs(dither) do",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "Project meeting",
+      "details": "That's exactly what you need. Just put all the web safe colors into one array, compare your color one by one with each color in the array, then take the color which has the lowest difference. I can post example code if you like. – Lambda Fairy Dec 6 '11 at 5:24\nDo I need to take the difference of each r,g,b value, or h,s,v, or 32bit number? – Scott Dec 6 '11 at 5:28\nThis looks like Lua code to me, so I'm tagging it as such. – Jeffrey Hantin Dec 6 '11 at 6:26\n1\nI'm glad you got an answer, but I'm really curious: Why do you need web safe colors in 2011? Can't you rely on everything being at least 16-bit these days? ",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "Other meeting",
+      "details": "That's exactly what you need. Just put all the web safe colors into one array, compare your color one by one with each color in the array, then take the color which has the lowest difference. I can post example code if you like. – Lambda Fairy Dec 6 '11 at 5:24\nDo I need to take the difference of each r,g,b value, or h,s,v, or 32bit number? – Scott Dec 6 '11 at 5:28",
+      "category": "todos",
+      "id": 7
+    }
+  ]
+}
